@@ -1,0 +1,51 @@
+
+#wrapper3{
+	width:1000px;
+	height:970px;
+	border:1px solid blue;
+	position:relative;
+	background:whitesmoke;	
+}
+#form3{
+	width:510px;
+	height:310px;
+	border:1px solid gray;
+	position:absolute;
+	top:93px;
+	right:245px; 
+}
+#gpic3{
+   	position:absolute;
+	top:1px;
+	right:3px;
+	width:506px;
+	height:302px;
+}
+#form4{
+	position:absolute;
+	top:480px;
+	right:90px;
+	width:800px;
+	height:310px;
+	border:1px solid gray;
+
+}
+#rr{
+	font-size:40px;
+	text-align:center;
+	color:gray;
+	margin:5px 0px 0px 0px;
+}
+#buy3{
+	position:absolute;
+	width:160px;
+	height:30px;
+	top:841px;
+	right:57px;
+	border-radius:15px;
+	border:1px solid HoneyDew ;
+	background:LightSkyBlue;
+	box-shadow:5px 5px lightgray;
+	font-size:20px;
+	color:white;
+}

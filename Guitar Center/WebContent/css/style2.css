@@ -1,0 +1,189 @@
+#wrapper2{
+	width:1000px;
+	height:1180px;
+	border:1px solid blue;
+	position:relative;
+    background:whitesmoke;
+}
+
+#nav2{
+	width:160px;
+	height:140px;
+	border:1px solid white;
+    position:absolute;
+    top:48px;
+	right:800px;
+	background:rgb(0,0,400);
+}
+#nav2 ul{
+	margin:0px;
+	padding:0px;
+		
+}
+#nav2 ul li{
+	
+	list-style:none;
+	
+   
+}
+
+#nav2 ul li a{
+	text-decoration:none;
+	color:white;
+}
+#nav2 ul li a:hover{
+	color:orange;
+}
+
+#nav3{
+	width:815px;
+	height:25px;
+	top:20px;
+	right:145px;
+	border:1px solid white;
+
+	background:rgb(0,0,400);
+	position:absolute;
+}
+#nav3 ul{
+	margin:0px;
+	padding:0px;
+		
+}
+#nav3 ul li{
+	float:left;
+	list-style:none;
+	padding:3px 0px 3px 50px;
+   
+}
+
+#nav3 ul li a{
+	text-decoration:none;
+	color:white;
+}
+#nav3 ul li a:hover{
+	color:orange;
+}
+#pic2{
+	width:510px;
+	height:310px;
+	border:1px solid gray;
+	position:absolute;
+	top:79px;
+	right:276px; 
+	
+}
+#gpic2{
+	position:absolute;
+	top:3px;
+	right:3px;
+	width:506px;
+	height:302px;
+		
+}
+#info2{
+	position:absolute;
+	top:79px;
+	right:16px;
+	width:251px;
+	height:310px;
+	border:1px solid gray;
+	color:white;
+	background:rgb(0,0,500);
+}
+#form1{
+	position:absolute;
+	top:444px;
+	right:160px;
+	width:800px;
+	height:300px;
+	border:1px solid gray;
+    background:lightblue;
+}
+#pp{
+	font-size:40px;
+	text-align:center;
+	color:gray;
+	margin:5px 0px 0px 0px;
+}
+#review{
+	position:absolute;
+	top:796px;
+	right:91px;
+	border:1px solid gray;
+	border-radius:15px;
+    background:lightskyblue;
+    color:white;
+}
+#form2{
+	position:absolute;
+	top:836px;
+	right:171px;
+	width:800px;
+	height:270px;
+	border:1px solid lightgray;
+	font-size:20px;
+    background:lightskyblue;
+}
+#buy2{
+	position:absolute;
+	width:100px;
+	height:30px;
+	top:1122px;
+	right:57px;
+	border-radius:15px;
+	border:1px solid HoneyDew ;
+	background:LightSkyBlue;
+	box-shadow:5px 5px lightgray;
+	font-size:20px;
+	color:white;
+}
+#formf{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:70px;
+	right:540px;
+	font-size:20px;
+	
+}
+#forml{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:70px;
+	right:191px;
+	font-size:20px;
+}
+#formc{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:130px;
+	right:540px;
+	font-size:20px;
+}
+#formp{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:130px;
+	right:191px;
+	font-size:20px;
+}
+#forme{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:194px;
+	right:540px;
+	font-size:20px;
+}
+#formm{
+	position:absolute;
+	width:220px;
+	height:30px;
+	top:194px;
+	right:191px;
+	font-size:20px;
+}

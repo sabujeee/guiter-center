@@ -1,0 +1,272 @@
+
+#wrapper1{
+	width:950px;
+	height:1000px;
+	border:1px solid lightgray;
+	position:relative;
+	right:-120px;
+	background:whitesmoke;		
+}
+#nav {
+	 position:absolute;
+     width: 890px;
+     height:46px;
+     font-size:20px;
+     border:1px solid white;
+     background:rgb(0,0,500);
+     top:20px;
+     right:30px;
+     z-index:1;
+}
+ 
+#nav ul {
+     list-style: none;
+}
+ 
+#nav ul li {
+     float: left;
+     position:relative;
+     margin:-5px 0px 0px 0px;
+}
+ 
+#nav ul li a {
+     text-align:left;
+     padding:0px 0px 0px 40px;
+     display:block;
+     text-decoration:none;
+     color:white;
+  
+}
+ 
+#nav ul li ul {
+     display: none
+      
+}
+ 
+#nav ul li:hover ul {
+     display: block;
+     position:absolute;
+     margin:0px 0px 0px -65px;
+}
+ 
+#nav ul li:hover ul li a {
+     display:block;
+     background:blue;
+     color:white;
+     width:120px;
+     text-align:left;    
+}
+ 
+#nav ul li:hover ul li a:hover {
+     background:red;
+     color:#fff;
+}
+#pic1{
+	width:510px;
+	height:310px;
+	border:1px solid green;
+   	top:126px;
+    right:290px;
+	position:absolute;	
+}
+#gpic1{
+	width:502px;
+	height:302px;
+	top:1px;
+    right:3px;
+	position:absolute;
+		
+}
+
+
+#previous{
+	top:440px;
+    right:792px;
+	font-size:20px;
+	border:1px solid HoneyDew;
+	border-radius:10px;
+	position:absolute;
+	color:white;
+	background:rgb(0,0,400);
+}
+
+#next{
+	top:440px;
+    right:218px;
+	font-size:20px;
+	border:1px solid HoneyDew;
+	border-radius:10px;
+	position:absolute;
+	color:white;
+	background:rgb(0,0,400);		
+}
+
+#product{
+	width:700px;
+	height:80px;
+	top:500px;
+    right:188px;
+	border:1px solid HoneyDew ;
+	background:rgb(0,0,500);;
+	box-shadow:5px 5px lightgray;
+	position:absolute; 		
+}
+#plus{
+	width:60px;
+	height:40px;
+    margin:25px 0px 0px 140px;
+	font-size:40px;
+	border:1px solid HoneyDew ;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+	color:green;
+		
+}
+#product ul{
+	margin:-55px;
+	padding:0px;
+	text-align:center;	
+}
+#product ul li{
+	
+	list-style:none;
+	   
+}
+
+#product li a{
+	text-decoration:none;
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+	
+}
+#product ul li a:hover{
+	color:orange;}
+
+#productinfo{
+	width:697px;
+	height:80px;
+	border:1px solid lightgray;
+    top:586px;
+    right:189px;
+    position:absolute;
+    background:rgb(100,0,0);
+    color:white;
+}	
+#shiping{
+	width:700px;
+	height:80px;
+	top:655px;
+    right:188px;
+	border:1px solid HoneyDew ;
+	background:rgb(0,0,500);;
+	box-shadow:5px 5px lightgray;
+	position:absolute; 		
+}
+#splus{
+	width:60px;
+	height:40px;
+    margin:25px 0px 0px 140px;
+	font-size:40px;
+	border:1px solid HoneyDew ;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+	color:green;
+		
+}
+#shiping ul{
+	margin:-55px;
+	padding:0px;
+	text-align:center;	
+}
+#shiping ul li{
+	list-style:none;	   
+}
+
+#shiping li a{
+	text-decoration:none;
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+	margin:25px 0px 0px 30px;	
+}
+#shiping ul li a:hover{
+	color:orange;}
+#shipinginfo{
+	width:697px;
+	height:40px;
+	border:1px solid lightgray;
+	top:741px;
+    right:189px;
+    position:absolute;
+    background:rgb(100,0,0);
+    color:white;
+	}
+#custom{
+	width:700px;
+	height:80px;
+	top:787px;
+    right:188px;
+    position:absolute; 	
+	border:1px solid HoneyDew ;
+	background:rgb(0,0,500);;
+	box-shadow:5px 5px lightgray;	
+}
+#cplus{
+	width:60px;
+	height:40px;
+    margin:25px 0px 0px 140px;
+	font-size:40px;
+	border:1px solid HoneyDew ;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+	color:green;
+		
+}
+#custom ul{
+	margin:-55px;
+	padding:0px;
+	text-align:center;	
+}
+#custom ul li{
+	list-style:none;	   
+}
+
+#custom li a{
+	text-decoration:none;
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+	margin:25px 0px 0px 30px;	
+}
+#custom ul li a:hover{
+	color:orange;}
+#custinfo{
+	width:697px;
+	height:80px;
+	border:1px solid lightgray;
+	top:877px;
+    right:189px;
+    position:absolute;
+    background:rgb(100,0,0);
+    color:white;
+}
+#buy{
+	position:absolute;
+	width:100px;
+	height:30px;
+	top:901px;
+	right:64px;
+	border-radius:15px;
+	border:1px solid HoneyDew ;
+	background:rgb(0,0,500);
+	box-shadow:5px 5px lightgray;
+	font-size:20px;
+	color:white;
+}
+
+#buy ul li a:hover{
+	color:green;}
